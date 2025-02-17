@@ -1,4 +1,4 @@
-# Portfólio Pessoal - Estudante de Análise de Tecnologia da informação
+# Portfólio Pessoal - Estudante em Análise de Tecnologia da informação
 
 Este repositório contém o código-fonte para o portfólio pessoal de um estudante de Tecnologia da Informação.
 
